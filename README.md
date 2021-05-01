@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ### I'm Nilo a Google Developer Expert, Huawei Developer, Fullstack Developer
-_Yo soy Nilo un Google Developer Expert, Huawei Developer, Fullstack Developer _
+_Yo soy Nilo un Google Developer Expert, Huawei Developer, Fullstack Developer_
 
 ## See and fun 🚀
 ### Im my repo do you see various technologies
